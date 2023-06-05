@@ -27,7 +27,7 @@
   <img align="center" alt="GitHub" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 
 </div>
-
+![Snake animation](https://github.com/rodrigoo-soouza/rodrigoo-soouza/blob/output/github-contribution-grid-snake.svg)
 <h3>Onde me encontrar</h3> 
 <div> 
 
@@ -35,5 +35,5 @@
   <a href="https://www.www.linkedin.com/in/rodrigosouzafonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div> 
-![Snake animation](https://github.com/rodrigoo-soouza/rodrigoo-soouza/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
