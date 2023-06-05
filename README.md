@@ -7,7 +7,7 @@
 - 🌱 Estudando: Linguagem C#, Java e Python 
 - 😄 Pronome: Ele/Dele
 - 💻 Cursando: Análise de Sistema
-
+![Snake animation](https://github.com/rodrigoo-soouza/rodrigoo-soouza/blob/output/github-contribution-grid-snake.svg)
 <div>
 <a href="https://github.com/rodrigoo-soouza">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoo-soouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -27,7 +27,7 @@
   <img align="center" alt="GitHub" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 
 </div>
-![Snake animation](https://github.com/rodrigoo-soouza/rodrigoo-soouza/blob/output/github-contribution-grid-snake.svg)
+
 <h3>Onde me encontrar</h3> 
 <div> 
 
